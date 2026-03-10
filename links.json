@@ -1,0 +1,15 @@
+[
+  {"name": "인터넷",      "url": "", "tp_cd": "registered", "odr": 1},
+  {"name": "앱",          "url": "", "tp_cd": "registered", "odr": 2},
+  {"name": "영업점",      "url": "", "tp_cd": "registered", "odr": 3},
+  {"name": "전화",        "url": "", "tp_cd": "registered", "odr": 4},
+  {"name": "기타",        "url": "", "tp_cd": "registered", "odr": 5},
+
+  {"name": "계좌입금",    "url": "", "tp_cd": "deposit", "odr": 1},
+  {"name": "토스",        "url": "", "tp_cd": "deposit", "odr": 2},
+  {"name": "카카오페이",  "url": "", "tp_cd": "deposit", "odr": 3},
+  {"name": "네이버페이",  "url": "", "tp_cd": "deposit", "odr": 4},
+  {"name": "포인트",      "url": "", "tp_cd": "deposit", "odr": 5},
+  {"name": "현금",        "url": "", "tp_cd": "deposit", "odr": 6},
+  {"name": "기타",        "url": "", "tp_cd": "deposit", "odr": 7}
+]
