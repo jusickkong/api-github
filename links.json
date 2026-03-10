@@ -1,15 +1,121 @@
 [
-  {"name": "인터넷",      "url": "", "tp_cd": "registered", "odr": 1},
-  {"name": "앱",          "url": "", "tp_cd": "registered", "odr": 2},
-  {"name": "영업점",      "url": "", "tp_cd": "registered", "odr": 3},
-  {"name": "전화",        "url": "", "tp_cd": "registered", "odr": 4},
-  {"name": "기타",        "url": "", "tp_cd": "registered", "odr": 5},
-
-  {"name": "계좌입금",    "url": "", "tp_cd": "deposit", "odr": 1},
-  {"name": "토스",        "url": "", "tp_cd": "deposit", "odr": 2},
-  {"name": "카카오페이",  "url": "", "tp_cd": "deposit", "odr": 3},
-  {"name": "네이버페이",  "url": "", "tp_cd": "deposit", "odr": 4},
-  {"name": "포인트",      "url": "", "tp_cd": "deposit", "odr": 5},
-  {"name": "현금",        "url": "", "tp_cd": "deposit", "odr": 6},
-  {"name": "기타",        "url": "", "tp_cd": "deposit", "odr": 7}
+  {
+    "id": 12,
+    "name": "카카오페이머니",
+    "url": "",
+    "tp_cd": "deposit",
+    "odr": 1
+  },
+  {
+    "id": 13,
+    "name": "네이버페이머니",
+    "url": "",
+    "tp_cd": "deposit",
+    "odr": 2
+  },
+  {
+    "id": 11,
+    "name": "핀크머니",
+    "url": "",
+    "tp_cd": "deposit",
+    "odr": 3
+  },
+  {
+    "id": 14,
+    "name": "계좌입금",
+    "url": "",
+    "tp_cd": "deposit",
+    "odr": 4
+  },
+  {
+    "id": 15,
+    "name": "띵코인",
+    "url": "",
+    "tp_cd": "deposit",
+    "odr": 5
+  },
+  {
+    "id": 5,
+    "name": "카카오페이",
+    "url": "https://fest.kakaopay.com/card-brokerage/card/list/current",
+    "tp_cd": "external",
+    "odr": 1
+  },
+  {
+    "id": 3,
+    "name": "네이버페이",
+    "url": "https://card.pay.naver.com/home",
+    "tp_cd": "external",
+    "odr": 2
+  },
+  {
+    "id": 2,
+    "name": "뱅크샐러드",
+    "url": "https://www.banksalad.com/chart/cards?tab=event",
+    "tp_cd": "external",
+    "odr": 3
+  },
+  {
+    "id": 1,
+    "name": "카드고릴라",
+    "url": "https://www.card-gorilla.com/event",
+    "tp_cd": "external",
+    "odr": 4
+  },
+  {
+    "id": 4,
+    "name": "아정당",
+    "url": "https://www.ajd.co.kr/card/event/list",
+    "tp_cd": "external",
+    "odr": 5
+  },
+  {
+    "id": 7,
+    "name": "카카오페이",
+    "url": "",
+    "tp_cd": "registered",
+    "odr": 1
+  },
+  {
+    "id": 8,
+    "name": "네이버페이",
+    "url": "",
+    "tp_cd": "registered",
+    "odr": 2
+  },
+  {
+    "id": 9,
+    "name": "토스",
+    "url": "",
+    "tp_cd": "registered",
+    "odr": 3
+  },
+  {
+    "id": 10,
+    "name": "아정당",
+    "url": "",
+    "tp_cd": "registered",
+    "odr": 4
+  },
+  {
+    "id": 17,
+    "name": "핀크",
+    "url": "",
+    "tp_cd": "registered",
+    "odr": 5
+  },
+  {
+    "id": 18,
+    "name": "모름",
+    "url": "",
+    "tp_cd": "registered",
+    "odr": 6
+  },
+  {
+    "id": 16,
+    "name": "기타",
+    "url": "",
+    "tp_cd": "registered",
+    "odr": 7
+  }
 ]
